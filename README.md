@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently upskilling<br>👯 I’m looking for dev experience<br>🤝 Help is definitely appreciated<br>🌱 I’m currently learning ASP.NET<br>💬 Ask me anything!<br>⚡ Fun fact: I like coffee
+🔭 I’m currently upskilling<br>👯 I’m looking for dev experience<br>🤝 Help is definitely appreciated<br>🌱 I’m currently learning .NET Core MVC<br>💬 Ask me anything!<br>⚡ Fun fact: I like coffee
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/raishudesu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@rijndael_dev) 
